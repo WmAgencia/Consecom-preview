@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "slug": "sc-solucoes-automotivas",
+    "name": "SC Soluções Automotivas",
+    "category": "Automotivo",
+    "description": "Site institucional e serviços automotivos em Sorocaba/SP",
+    "url": "https://site-zeta-steel.vercel.app/",
+    "thumbnail": "https://site-zeta-steel.vercel.app/assets/seo-extracted/92dd25d2eed3498a.webp",
+    "desktopPng": "",
+    "mobilePng": "",
+    "htmlZip": ""
+  }
+]
