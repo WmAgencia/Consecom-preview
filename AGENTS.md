@@ -23,3 +23,9 @@ Vitrine exclusiva dos sites da Consecom Brasil. O usuário solicita criação/al
 
 ## Critério de aceite
 O projeto só está finalizado com arquivos íntegros, links verificados, capturas reais, versão mobile revisada e deploy comprovado. Preferir transparência sobre pendências.
+
+## Diferencial obrigatório por cliente
+- Cada site deve ter no mínimo UMA funcionalidade ou experiência diferenciadora, desenhada para a dor real daquele nicho; não basta mudar cor, imagem ou animação.
+- O diferencial deve ser plenamente funcional e testado, não uma maquete inerte. Exemplos: configurador/briefing de orçamento, comparador pertinente, filtro inteligente de catálogo, consulta guiada, simulador apenas com critérios validados.
+- Não criar preços, orçamentos automáticos, avaliações, números, obras ou depoimentos não verificados. Funcionalidades interativas devem esclarecer quando são ilustrativas.
+- Preservar a identidade e as imagens fornecidas pelo cliente. Em restauração de imagem com texto, priorizar upscaling conservador e fidelidade em vez de inventar letras ou detalhes.
