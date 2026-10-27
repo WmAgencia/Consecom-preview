@@ -119,5 +119,16 @@
     "desktopPng": "",
     "mobilePng": "",
     "htmlZip": ""
+  },
+  {
+    "slug": "dinastia-piscinas",
+    "name": "Dinastia Piscinas",
+    "category": "Construção",
+    "description": "Construção, reforma, iluminação e revestimentos de piscinas",
+    "url": "/sites/dinastia-piscinas/",
+    "thumbnail": "/sites/dinastia-piscinas/thumbnail.webp",
+    "desktopPng": "/sites/dinastia-piscinas/desktop.png",
+    "mobilePng": "/sites/dinastia-piscinas/mobile.png",
+    "htmlZip": "/sites/dinastia-piscinas/dinastia-piscinas-site.zip"
   }
 ]
