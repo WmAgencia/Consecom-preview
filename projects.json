@@ -1,5 +1,16 @@
 [
   {
+    "slug": "tw-co-premium",
+    "name": "TW&CO — Serviços Mecânicos Premium",
+    "category": "Automotivo",
+    "description": "Oficina e serviços mecânicos premium em Sorocaba/SP",
+    "url": "https://tweco.com.br/",
+    "thumbnail": "",
+    "desktopPng": "",
+    "mobilePng": "",
+    "htmlZip": ""
+  },
+  {
     "slug": "munckumuarama2",
     "name": "Munck Umuarama 2",
     "category": "Industrial",
@@ -93,17 +104,6 @@
     "category": "Automotivo",
     "description": "Serviços automotivos",
     "url": "/sites/mecanico-premium-sor/",
-    "thumbnail": "",
-    "desktopPng": "",
-    "mobilePng": "",
-    "htmlZip": ""
-  },
-  {
-    "slug": "tw-co-premium",
-    "name": "TW Co Premium",
-    "category": "Outros",
-    "description": "Marca premium",
-    "url": "/sites/tw-co-premium/",
     "thumbnail": "",
     "desktopPng": "",
     "mobilePng": "",
